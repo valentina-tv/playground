@@ -1,4 +1,6 @@
-# This is Emily's version of the playground.
+<<<<<<< HEAD
+# VE Sandbox
+>>>>>>> origin/master
 
 A place to play with `git`.
 
