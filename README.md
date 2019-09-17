@@ -1,4 +1,4 @@
-# Playground
+# Sandbox
 
 A place to play with `git`.
 
